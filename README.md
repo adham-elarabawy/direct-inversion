@@ -2,6 +2,7 @@
 Official code implementation for our paper, [Direct Inversion: Optimization-Free Text-Driven Real Image Editing with Diffusion Models](https://arxiv.org/abs/2211.07825).
 
 <img src="assets/white_to_green_shirt.gif" alt="drawing" width="200"/>
+<img src="assets/white_to_brown_shirt.gif" alt="drawing" width="200"/>
 
 ![Paper Thumbnail](assets/paper_thumbnail.png)
 
